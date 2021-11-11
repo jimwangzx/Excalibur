@@ -1,9 +1,10 @@
 # Excalibur
-Excalibur Phishing Tool
+Excalibur Phishing Tool <br>
 Version 1.0.0 Created By FireKing255
+
 <h1 align="center">
   <br>
-  <a href="https://github.com/FireKing255/Excalibur"><img width="10" height="10" src="https://www.pngkey.com/png/full/799-7992912_true-excalibur-minecraft-excalibur-sword-texture.png" alt="Excalibur"></a>
+  <a href="https://github.com/FireKing255/Excalibur"><img width="100" height="100" src="https://www.pngkey.com/png/full/799-7992912_true-excalibur-minecraft-excalibur-sword-texture.png" alt="Excalibur"></a>
 </h1>
 
 <h4 align="center">A Phishing Tool With PHP and Python3</h4>
