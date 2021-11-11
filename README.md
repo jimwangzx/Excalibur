@@ -1,10 +1,12 @@
 # Excalibur
+Excalibur Phishing Tool
+Version 1.0.0 Created By FireKing255
 <h1 align="center">
   <br>
-  <a href="https://github.com/FireKing255/Excalibur"><img src="https://www.pngkey.com/png/full/799-7992912_true-excalibur-minecraft-excalibur-sword-texture.png" alt="Excalibur"></a>
+  <a href="https://github.com/FireKing255/Excalibur"><img width="10" height="10" src="https://www.pngkey.com/png/full/799-7992912_true-excalibur-minecraft-excalibur-sword-texture.png" alt="Excalibur"></a>
 </h1>
 
-<h4 align="center">A Phishing Tool With Php and Python3</h4>
+<h4 align="center">A Phishing Tool With PHP and Python3</h4>
 
 <p align="center">
   <a href="http://python.org">
@@ -28,13 +30,16 @@
 - Fake YouTube Login(Google) Phishing Page
 - Fake Instagram Free Followers Phishing Page
 - Fake Telegram Free Members Phishing Page
-- 
+- Fake Clash Of Clans Hacker Phishing Page
 
 -=Operating Systems Tested=-
 - ubuntu 20.04.3 LTS
 
-### Installation On Kali Linux
-
+-=Credit & Help=-
+- Copyright © 2021 by FireKing255
+- Instagram: fireking255
+- Telegram: @Fireking255
+- Github:https://github.com/fireking255/
 
 ```bash
 $ git clone https://github.com/FireKing255/Excalibur
