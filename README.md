@@ -39,7 +39,7 @@ Version 1.0.0 Created By FireKing255
 - Copyright © 2021 by FireKing255
 - Instagram: fireking255
 - Telegram: @Fireking255
-- Github:https://github.com/fireking255/
+- Github: https://github.com/fireking255/
 
 ```bash
 $ git clone https://github.com/FireKing255/Excalibur
