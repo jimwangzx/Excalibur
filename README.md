@@ -1,0 +1,45 @@
+# Excalibur
+<h1 align="center">
+  <br>
+  <a href="https://github.com/FireKing255/Excalibur"><img src="https://www.pngkey.com/png/full/799-7992912_true-excalibur-minecraft-excalibur-sword-texture.png" alt="Excalibur"></a>
+</h1>
+
+<h4 align="center">A Phishing Tool With Php and Python3</h4>
+
+<p align="center">
+  <a href="http://python.org">
+    <img src="https://img.shields.io/badge/python-v3-yellow">
+  </a>
+
+  <a href="https://php.net">
+    <img src="https://img.shields.io/badge/php-7.4.3-purple"
+         alt="php">
+  </a>
+
+  <a href="https://www.microsoft.com/de-de/">
+    <img src="https://img.shields.io/badge/platform-Linux-red">
+  </a>
+</p>
+
+
+-=Features=-
+- Fake Instagram Phishing Page
+- Fake FaceBook Phishing Page
+- Fake YouTube Login(Google) Phishing Page
+- Fake Instagram Free Followers Phishing Page
+- Fake Telegram Free Members Phishing Page
+- 
+
+-=Operating Systems Tested=-
+- ubuntu 20.04.3 LTS
+
+### Installation On Kali Linux
+
+
+```bash
+$ git clone https://github.com/FireKing255/Excalibur
+$ cd Excalibur
+$ sudo bash install.sh
+$ python3 -m pip install -r requirments.txt
+$ sudo python3 Excalibur.py
+```
