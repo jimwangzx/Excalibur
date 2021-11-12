@@ -31,15 +31,17 @@ Version 1.0.0 Created By FireKing255
 - Fake Instagram Free Followers Phishing Page
 - Fake Telegram Free Members Phishing Page
 - Fake Clash Of Clans Hacker Phishing Page
+- Empty Phsihing Page
+- - ngrok
 
 -=Operating Systems Tested=-
 - ubuntu 20.04.3 LTS
 
 -=Credit & Help=-
 - Copyright © 2021 by FireKing255
-- Instagram: fireking255
 - Telegram: @Fireking255
 - Github: https://github.com/fireking255/
+- For Any Issue Read Errors.txt
 
 ```bash
 $ git clone https://github.com/FireKing255/Excalibur
