@@ -32,7 +32,7 @@ Version 1.0.0 Created By FireKing255
 - Fake Telegram Free Members Phishing Page
 - Fake Clash Of Clans Hacker Phishing Page
 - Empty Phsihing Page
-- - ngrok
+  - ngrok
 
 -=Operating Systems Tested=-
 - ubuntu 20.04.3 LTS
