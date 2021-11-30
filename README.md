@@ -1,6 +1,6 @@
 # Excalibur
 Excalibur Phishing Tool <br>
-Version 1.0.0 Created By FireKing255
+Version 1.1 Created By FireKing255
 
 <div align="center">
 <a href="https://github.com/FireKing255/Excalibur"><img width="120" height="120" src="https://www.pngkey.com/png/full/799-7992912_true-excalibur-minecraft-excalibur-sword-texture.png" alt="Excalibur"></a>
@@ -40,6 +40,7 @@ Version 1.0.0 Created By FireKing255
 -=Credit & Help=-
 - Copyright © 2021 by FireKing255
 - Telegram: @Fireking255
+- Instagram: fireking255.hack
 - Github: https://github.com/fireking255/
 - For Any Issue Read Errors.txt
 
